@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-![ teste](https://github.com/cledilsonwisp/PeleaoNatural/blob/main/cuidadosdamulher/assets/images/Onboarding/loginprimario1.jpg )
+![ teste](https://github.com/cledilsonwisp/imagens/blob/main/cledilson-readme-gif.gif )
