@@ -1,8 +1,8 @@
 ![ teste](https://github.com/cledilsonwisp/imagens/blob/main/cledilson-readme-gif.gif )
  
- ### Olá, sou o Cledilson! 👨‍💻
+ ### Olá, Bem vindo! 👨‍💻
 
-* Em constante evolução, Study ! Study! Study!
+* Em constante evolução, Study ! Study!
 * Vamos nos conectar ? 
 
 
