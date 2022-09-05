@@ -2,7 +2,7 @@
  
  ### Olá, Bem vindo! 👨‍💻
 
-* Em constante evolução, Study ! Study!
+* Em constante evolução!
 * Vamos nos conectar ? 
 
 
