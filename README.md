@@ -16,7 +16,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 ### Skills:
 
-![Swift](https://img.shields.io/badge/Swift-#F05138?style=for-the-badge&logo=spring&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
