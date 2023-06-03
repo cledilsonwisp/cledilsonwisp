@@ -15,14 +15,13 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 
 ### Skills:
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=spring&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=spring&logoColor=white)
+
+
 
 <a href="https://github.com/cledilsonwisp">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cledilsonwisp&show_icons=true&theme=onedark&count_private=true"/>
