@@ -8,13 +8,15 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cledilson-programador/)](https://www.linkedin.com/in/cledilson-programador/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/clehwisp__/)](https://www.instagram.com/clehwisp__/)
 
+
 #### 🌍 "Me tornando um profissional melhor a cada dia!" 🧠
 - 📚 Atualmente estudando Angular, Javascript, Kotlin, Swift e inglês.
 - ✨ Nascido no Brasil, Bahia
 
+
 ### Skills:
 
-![Swift][(https://img.shields.io/badge/swift-5.1-brightgreen.svg)](https://github.com/apple/swift)
+![Swift](https://img.shields.io/badge/Swift-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
