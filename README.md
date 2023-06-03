@@ -17,7 +17,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 
 
-### Skills:
+### Habilidades:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
