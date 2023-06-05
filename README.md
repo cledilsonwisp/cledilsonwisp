@@ -21,9 +21,9 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=spring&logoColor=white)
-
+ -->
 
 
 <a href="https://github.com/cledilsonwisp">
