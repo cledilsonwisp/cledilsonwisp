@@ -12,7 +12,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 
 #### 🌍 "Me tornando um profissional melhor a cada dia!" 🧠
-- 📚 Atualmente estudando Angular, Javascript, Kotlin, Swift e inglês.
+- 📚 Atualmente estudando Kotlin, Swift e inglês.
 - ✨ Nascido no Brasil, Bahia
 
 
@@ -25,7 +25,19 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=spring&logoColor=white)
  -->
 
+ ---
+ 
+   <div align="center">
+ 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=cledilsonwisp&show_icons=true&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cledilsonwisp&theme=dark"/>
+  <br>
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipecastrosales&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
+  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecastrosales&theme=monokai"/>
 
+   </div>
+
+---
 <a href="https://github.com/cledilsonwisp">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cledilsonwisp&show_icons=true&theme=onedark&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cledilsonwisp&layout=compact&langs_count=6&theme=onedark"/>
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cledilsonwisp&show_icons=true&theme=onedark&count_private=true"/> -->
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cledilsonwisp&layout=compact&langs_count=6&theme=onedark"/> -->
