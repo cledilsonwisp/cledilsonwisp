@@ -12,7 +12,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 
 #### 🌍 "Me tornando um profissional melhor a cada dia!" 🧠
-- 📚 Atualmente estudando Kotlin, Swift e inglês.
+- 📚 Atualmente estudando Kotlin, IOS e inglês.
 - ✨ Nascido no Brasil, Bahia
 
 
