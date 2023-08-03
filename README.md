@@ -26,7 +26,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
  ---
  
-  <div align="start">
+  <div align="center">
  
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=cledilsonwisp&show_icons=true&theme=dracula"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cledilsonwisp&theme=dracula"/>
