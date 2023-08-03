@@ -28,11 +28,11 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
  
   <div align="center">
  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=cledilsonwisp&show_icons=true&theme=highcontrast"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cledilsonwisp&theme=highcontrast"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=cledilsonwisp&show_icons=true&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cledilsonwisp&theme=dracula"/>
   <br>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=cledilsonwisp&show_icons=true&locale=pt&layout=compact&theme=dark&line_height=1"/>
-  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cledilsonwisp&theme=monokai"/>
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=cledilsonwisp&show_icons=true&locale=pt&layout=compact&theme=dracula&line_height=1"/>
+  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cledilsonwisp&theme=dracula"/>
 
   </div>
 
