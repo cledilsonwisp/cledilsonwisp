@@ -58,17 +58,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/cledilson-progr
 
 ##
 
-#### Formação Acadêmica:
-Na visão geral abaixo você encontrará minha formação acadêmica:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)
-**Software Developer** \
-[**Cubos Academy**](https://cubos.academy/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `PostgreSQL`
-
-##
-
 #### Estatísticas:
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cledilsonwisp&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=cledilsonwisp&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
