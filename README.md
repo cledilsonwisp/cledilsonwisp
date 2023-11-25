@@ -1,10 +1,9 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-# Olá 👨‍💻
+<<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+### Olá 👨‍💻, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<br/>
 
 ![gif](https://github.com/cledilsonwisp/imagens/blob/main/cledilson-readme-gif.gif)
-
-### Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
 
 #### 🌍 "Me tornando um profissional melhor a cada dia!" 🧠
 - ✨ sou da Bahia, Brasil
@@ -69,4 +68,3 @@ Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cledilsonwisp&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=cledilsonwisp&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=cledilsonwisp&amp;theme=radical"/>](https://github.com/)
-
