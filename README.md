@@ -41,7 +41,6 @@ Na visão geral abaixo você encontrará minha experiências de trabalho mais re
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/V0spr3ZW/luby-logo.jpg"/>](https://www.luby.com.br/)
 **Luby Software** 
 <br/> 
-<br/> 
 
 [**Help Entrega**](https://helpentregas.com.br/) • Full-time \
 Competências: `Angular (Framework)`, `Google Maps`, `Firebase`, `Flutter`, `Geolocalização`, `MVC`, 
