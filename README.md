@@ -52,7 +52,7 @@ No projeto Help Entregas, um aplicativo de delivery voltado para entregadores, a
 ##
 
 [**Nido**](https://nido.app.br/wpsite/) • Full-time \
-Competências: `GitFlow`, `JIRA`, `Firebase`, `GitHub `, `GitCompetências`, `MVC`, `API REST` 
+Competências: `GitFlow`, `JIRA`, `Firebase`, `GitHub `, `Git`, `MVC`, `API REST` 
 <br/>
 <br/>
 No projeto Nido, um aplicativo de bem-estar e saúde para facilitar o encontro de pessoas e profissionais, fui responsável pelo desenvolvimento. Realizei a migração do projeto para o null-safety do Flutter, realizei manutenções e apliquei melhorias tanto na interface do usuário quanto nas regras de negócios.
