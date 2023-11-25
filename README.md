@@ -1,9 +1,11 @@
-<<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### Olá 👨‍💻, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-<br/>
+# Olá 👨‍💻
 
 ![gif](https://github.com/cledilsonwisp/imagens/blob/main/cledilson-readme-gif.gif)
+
+### Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
 
 #### 🌍 "Me tornando um profissional melhor a cada dia!" 🧠
 - ✨ sou da Bahia, Brasil
