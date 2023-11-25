@@ -45,13 +45,18 @@ Na visão geral abaixo você encontrará minha experiências de trabalho mais re
 [**Help Entrega**](https://helpentregas.com.br/) • Full-time \
 Competências: `Angular (Framework)`, `Google Maps`, `Firebase`, `Flutter`, `Geolocalização`, `MVC`, 
 <br/> `Socket.io`, `Firebae`, `API REST`
-<br/> No projeto Help Entregas, um aplicativo de delivery voltado para entregadores, atuei no desenvolvimento mobile com Flutter utilizando socket IO em Java nativo para comunicação em tempo real entre estabelecimentos e entregadores.
+<br/>
+<br/>
+No projeto Help Entregas, um aplicativo de delivery voltado para entregadores, atuei no desenvolvimento mobile com Flutter utilizando socket IO em Java nativo para comunicação em tempo real entre estabelecimentos e entregadores.
 
 ##
 
 [**Nido**](https://nido.app.br/wpsite/) • Full-time \
 Competências: `GitFlow`, `JIRA`, `Firebase`, `GitHub `, `GitCompetências`, `MVC`, `API REST` 
-<br/> No projeto Nido, um aplicativo de bem-estar e saúde para facilitar o encontro de pessoas e profissionais, fui responsável pelo desenvolvimento. Realizei a migração do projeto para o null-safety do Flutter, realizei manutenções e apliquei melhorias tanto na interface do usuário quanto nas regras de negócios.
+<br/>
+<br/>
+No projeto Nido, um aplicativo de bem-estar e saúde para facilitar o encontro de pessoas e profissionais, fui responsável pelo desenvolvimento. Realizei a migração do projeto para o null-safety do Flutter, realizei manutenções e apliquei melhorias tanto na interface do usuário quanto nas regras de negócios.
+<br/>
 <br/>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/cledilson-programador/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
