@@ -38,8 +38,9 @@
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiências de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://postimg.cc/V0spr3ZW"/>](https://www.luby.com.br/)
-**Luby Software** \
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/V0spr3ZW/luby-logo.jpg"/>](https://www.luby.com.br/)
+**Luby Software** 
+<br/> 
 [**Help Entrega**](https://helpentregas.com.br/) • Full-time \
 Competências: `Angular (Framework)`, `Google Maps`, `Firebase`, `Flutter`, `Geolocalização`, `MVC`, 
 <br/> `Socket.io`, `Firebae`, `API REST`
@@ -47,7 +48,7 @@ Competências: `Angular (Framework)`, `Google Maps`, `Firebase`, `Flutter`, `Geo
 
 ##
 
-[**Nido***](https://helpentregas.com.br/) • Full-time \
+[**Nido**](https://helpentregas.com.br/) • Full-time \
 Competências: `GitFlow`, `JIRA`, `Firebase`, `GitHub `, `GitCompetências`, `MVC`, `API REST` 
 <br/> No projeto Nido, um aplicativo de bem-estar e saúde para facilitar o encontro de pessoas e profissionais, fui responsável pelo desenvolvimento. Realizei a migração do projeto para o null-safety do Flutter, realizei manutenções e apliquei melhorias tanto na interface do usuário quanto nas regras de negócios.
 <br/>
