@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 # Olá 👨‍💻
-![ teste](https://github.com/cledilsonwisp/imagens/blob/main/cledilson-readme-gif.gif )
+
+![gif](https://github.com/cledilsonwisp/imagens/blob/main/cledilson-readme-gif.gif)
 
 ### Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
@@ -14,7 +15,6 @@
 #### Estou aprendendo sobre:
 [<img height="48px" width="48px" alt="Icone Swift" src="https://skillicons.dev/icons?i=swift"/>](https://www.swift.org/)
 [<img height="48px" width="48px" alt="Icone Kotlin" src="https://skillicons.dev/icons?i=kotlin"/>](https://kotlinlang.org/)
-[<img height="48px" width="48px" alt="Icone Xcode" src="https://skillicons.dev/icons?i=xcode"/>](https://sass-lang.com)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ##
